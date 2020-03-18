@@ -1,5 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './components/counter/counter.scss'
+import './components/header/header.scss'
+import './components/footer/footer.scss'
+
 
 import App from './app.js';
 
