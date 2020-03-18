@@ -1,0 +1,40 @@
+.counter {
+  height: 50px;
+  background-color: rgb(138, 121, 121);
+  width: 60%;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.clicker {
+  border: purple 2px solid;
+  border-radius: 5px;
+  width: 30px;
+  margin: auto
+}
+
+.up {
+  background-color: yellow;
+  align-items: center;
+}
+
+.down {
+  background-color: red;
+}
+
+.count {
+  background-color: black;
+  color: white;
+  width: 10%;
+  border-radius: 10px;
+}
+.positive {
+  background-color: green;
+}
+.negative {
+  background-color: white;
+  color: black
+}
+
